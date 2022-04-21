@@ -1,0 +1,1 @@
+[ntrs.nasa.gov/citations/20070005019](https://ntrs.nasa.gov/citations/20070005019)
