@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AC Propulsion’s Solar Electric Powered SoLong UAV.md",
+            "file": "Guidance and Control of an Autonomous Soaring UAV - Nasa.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AC Propulsion’s Solar Electric Powered SoLong UAV.md",
+                "file": "Guidance and Control of an Autonomous Soaring UAV - Nasa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "1c09af42cab15149",
   "lastOpenFiles": [
-    "AC Propulsion’s Solar Electric Powered SoLong UAV.md",
     "Guidance and Control of an Autonomous Soaring UAV - Nasa.md",
+    "AC Propulsion’s Solar Electric Powered SoLong UAV.md",
     "Inspiration/The Spark.md"
   ]
 }
